@@ -28,3 +28,5 @@ public abstract class Animal {
     public int getEnergia() { return energia; }
     public int getFome() { return fome; }
     public int getFelicidade() { return felicidade; }
+
+}
